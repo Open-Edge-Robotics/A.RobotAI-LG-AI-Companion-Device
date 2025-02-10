@@ -6,12 +6,7 @@
   
 
 LG Electronics unveiled the 'Smart Home AI Agent' at CES 2024 to accelerate the realization of 'Zero Labor Home, Makes Quality Time'.  
-The AI agent can move around the house on two wheels and conveniently connects and controls home appliances and IoT devices. It can acquire various  
-information based on voice, sound, and image information obtained through AI functions, and this is used to help people with their housework. The AI agent is  
-designed as an open platform based on ROS 2, and has been developed to allow developers to add additional software functions implemented by developers  
-in addition to the functions provided by the agent through a standardized interface.LG Electronics plans to expand the open ecosystem that provides opportunities  
-for developers to directly participate in the ecosystem and enable co-development to  
-develop products with customers.
+The AI agent can move around the house on two wheels and conveniently connects and controls home appliances and IoT devices. It can acquire various information based on voice, sound, and image information obtained through AI functions, and this is used to help people with their housework. The AI agent is designed as an open platform based on ROS 2, and has been developed to allow developers to add additional software functions implemented by developers in addition to the functions provided by the agent through a standardized interface.LG Electronics plans to expand the open ecosystem that provides opportunities for developers to directly participate in the ecosystem and enable co-development to develop products with customers.
 
   
 
